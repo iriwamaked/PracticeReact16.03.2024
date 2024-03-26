@@ -1,0 +1,15 @@
+.common {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.h1Cl {
+  color:#0047FB;
+  text-shadow: 4px 4px 3px rgba(10, 70, 211, 0.5);
+}
+
+.h2Cl {
+  font-size: 25px;
+  text-align: end;
+  margin-right: 5rem;
+}
